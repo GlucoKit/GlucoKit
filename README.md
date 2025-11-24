@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+<img src="https://github.com/ademfatnassi/ademfatnassi/raw/main/github-header-image.png">
+Hi there 👋, I'm Adem Fatnassi software developer. I create user-friendly applications and tackle complex challenges. My passion lies in keeping up with the latest technology trends
+
+
+
 <!--
 **GlucoKit/GlucoKit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
